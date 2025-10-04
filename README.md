@@ -1,5 +1,5 @@
 ### What's up! 👋
-I'm [Aiden](https://aidenkt.com), currently studying Computer Science & Engineering. Follow me across the web [here.](https://aiden.social)
+I'm [Aiden](https://aidenkt.com), currently studying Computer Science & Engineering. Follow me across the web [here.](https://aiden.social)<br>
 <sub>Most of my repos here are private or are in private organizations.</sub>
 
 <!--
