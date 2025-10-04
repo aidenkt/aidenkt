@@ -1,7 +1,6 @@
-### aidenkt
+### What's up! 👋
 I'm [Aiden](https://aidenkt.com), currently studying Computer Science & Engineering. Follow me across the web [here.](https://aiden.social)
-
--# Most of my repos here are private or are in private organizations.
+<sub>Most of my repos here are private or are in private organizations.</sub>
 
 <!--
 **aidenkt/aidenkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
