@@ -1,4 +1,4 @@
-### 👋 Hi!
+### 👋 Hi,
 I'm [Aiden](https://aidenkt.com), currently studying Electrical Engineering & Computer Science at Berkeley. Follow me across the web [here.](https://aiden.social)<br>
 <sub>Most of my repos here are private or are in private organizations.</sub>
 
